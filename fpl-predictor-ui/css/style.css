@@ -1,0 +1,51 @@
+.nav-wrapper{
+    background-color:  #202124;
+    ;
+}
+
+nav .brand-logo{
+    color: rgb(88, 183, 96);
+}
+
+nav ul a {
+    color: rgb(88, 183, 96);
+}
+
+nav a {
+    color: rgb(88, 183, 96);
+}
+
+.sidenav {
+    background-color: #202124;
+}
+
+.sidenav li>a {
+    color: rgb(88, 183, 96);
+}
+
+html{
+    color: rgb(88, 183, 96);
+}
+
+.modal .modal-footer{
+    background-color: #202124;
+    ;
+    color: rgb(88, 183, 96);
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+.page-footer{
+    background-color: #202124;
+    color: rgb(88, 183, 96);
+    margin-top: auto;
+}
+
+nav {
+    background-color: #202124;
+    color: rgb(88, 183, 96);
+}
